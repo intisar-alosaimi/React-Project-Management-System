@@ -1,3 +1,11 @@
+# Test Login Credentials
+
+| Role        | Email                   | Password   |
+| ----------- | ----------------------- | ---------- |
+| **Student** | `example@tuwaiq.edu.sa` | `123`      |
+| **Teacher** | `nasser@tuwaiq.edu.sa`  | `t123`     |
+| **Admin**   | `abeer@tuwaiq.edu.sa`   | `admin123` |
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
