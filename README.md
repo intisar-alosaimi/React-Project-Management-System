@@ -26,7 +26,7 @@ This is a frontend-only project — there's no custom backend in this repo. Logi
 ## Getting started
 
 ```bash
-git clone https://github.com/EntisarOsiami/React-Project-Management-System.git
+git clone https://github.com/intisar-alosaimi/React-Project-Management-System.git
 cd React-Project-Management-System
 npm install
 npm run dev
